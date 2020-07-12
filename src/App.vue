@@ -26,7 +26,6 @@
                     }
                 }
             })
-            // #endif123
         },
         onShow: function() {
             console.log('App Show')
